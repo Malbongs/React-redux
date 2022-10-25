@@ -1,0 +1,10 @@
+.box-container {
+  padding: 10px;
+  margin: 20px;
+  border: 2px solid red;
+}
+.box-container div {
+  padding: 10px;
+  margin: 20px;
+  border: 2px solid black;
+}
